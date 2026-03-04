@@ -1,4 +1,3 @@
-Got it! I’ve kept your exact structure and wording but added some **technical details** about how the project works under the hood, which will make it read more professional and “tech-savvy”:
 
 ---
 
