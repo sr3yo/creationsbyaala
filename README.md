@@ -31,5 +31,3 @@ To set up the project locally:
    ?>
    ```
 6. Open the project in a browser at `http://localhost/creationsbyaala/`.
-
-The application can be customized by updating product listings, modifying styles, replacing images and logos, or adding an admin panel for inventory management. Contributions are welcome—fork the repository, make improvements, and submit a pull request. The project currently has no license, so contact the owner before any commercial use.
